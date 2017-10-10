@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D88C-EDC5
+
+ Directory of C:\Appium\MyGitProject
+
+10-10-2017  10:58    <DIR>          .
+10-10-2017  10:58    <DIR>          ..
+10-10-2017  10:58                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  594,201,178,112 bytes free
